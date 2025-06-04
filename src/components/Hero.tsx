@@ -17,9 +17,13 @@ const Hero = () => {
             <div className="absolute -top-1 -right-1 w-3 h-3 bg-green-400 rounded-full animate-pulse"></div>
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-mono font-bold mb-6 text-green-400 relative">
-            <span className="relative inline-block">SOFTWARE ENGINEER</span>
+          <h1 className="text-5xl md:text-7xl font-mono font-bold text-green-400 relative">
+            <span className="relative inline-block">GÖRKEM CANIDEMİR</span>
           </h1>
+
+          <h2 className="text-2xl md:text-3xl font-mono mb-6 text-green-400">
+            Software Engineer
+          </h2>
 
           <h2 className="text-3xl md:text-4xl font-mono mb-4 text-green-300">
             Jack of All Trades. Master of Some.
