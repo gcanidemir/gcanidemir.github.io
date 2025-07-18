@@ -74,7 +74,7 @@ const Projects = () => {
         title: "Pawstro (Brackeys Game Jam 2024.2)",
         description:
           "Wave-based survival, resource gathering, and base-building game. Built Enemy AI&Navigation System from scratch.",
-        technologies: ["Unity"],
+        technologies: ["Unity","C#"],
         githubUrl: "https://github.com/gcanidemir/Pawstro",
         liveUrl: "https://www.youtube.com/watch?v=lEQqwYoh3Zc",
         imageUrl: "Pawstro_(Brackeys_Game_Jam_2024.2).jpg"
@@ -83,7 +83,7 @@ const Projects = () => {
         title: "FallrRise",
         description:
           "Wave based 3D arena fighting game.",
-        technologies: ["Unity"],
+        technologies: ["Unity", "C#"],
         githubUrl: "https://github.com/gcanidemir/FallrRise",
         liveUrl: "https://www.youtube.com/watch?v=zuSTkT8jwIA",
         imageUrl: "FallrRise.jpg"
@@ -92,7 +92,7 @@ const Projects = () => {
         title: "Rat Hunter",
         description:
           "A simple prototype inspired by Mario mechanics",
-        technologies: ["Unity"],
+        technologies: ["Unity", "C#"],
         githubUrl: "https://github.com/gcanidemir/RatHunter",
         liveUrl: "https://www.youtube.com/watch?v=aW_R2H_cqqE",
         imageUrl: "Rat_Hunter.jpg"
@@ -101,11 +101,92 @@ const Projects = () => {
         title: "Crypt Raider",
         description:
           "A puzzle game to find treaseure in a crypt and escape with it.",
-        technologies: ["Unreal Engine"],
+        technologies: ["Unreal Engine", "C++"],
         githubUrl: "https://github.com/gcanidemir/CryptRaider",
         liveUrl: "https://www.youtube.com/watch?v=ukpX9djl1fQ",
         imageUrl: "Crypt_Raider.jpg"
-      }      
+      },
+      {
+        title: "Shooter Game",
+        description:
+          "A third person shooter built in Unreal Engine 5. It demonstrates core FPS mechanics—player movement, shooting, enemy AI, and HUD integration; wrapped in a clean, modular architecture.",
+        technologies: ["Unreal Engine", "C++"],
+        githubUrl: "https://github.com/gcanidemir/ShooterGame",
+        liveUrl: "https://www.youtube.com/watch?v=UanbFphTljU",
+        imageUrl: "Shooter_Game.jpg"
+      },
+      {
+        title: "Toon Tanks",
+        description:
+          "Third-person tank battle game developed using Unreal Engine 5. It features a player-controlled tank battling AI-controlled enemy turrets.",
+        technologies: ["Unreal Engine", "C++"],
+        githubUrl: "https://github.com/gcanidemir/ToonTanks",
+        liveUrl: "https://www.youtube.com/watch?v=AA0GQr6yCU0",
+        imageUrl: "Toon_Tanks.jpg"
+      },
+      {
+        title: "Obstacle Assault",
+        description:
+          "3D platformer game developed with Unreal Engine 5. Navigate challenging obstacle courses with moving and rotating platforms to reach the final castle destination.",
+        technologies: ["Unreal Engine", "C++"],
+        githubUrl: "https://github.com/gcanidemir/ObstacleAssault",
+        liveUrl: "https://www.youtube.com/watch?v=Nf8BoGlU3ek",
+        imageUrl: "Obstacle_Assault.jpg"
+      },
+      {
+        title: "Warehouse Wreckage",
+        description:
+          "First game built with Unreal Engine 5. Entry point to learn Unreal Engine 5. It features a simple 3D environment with basic player movement and interaction mechanics.",
+        technologies: ["Unreal Engine"],
+        githubUrl: "https://github.com/gcanidemir/WarehouseWreckage",
+        liveUrl: "https://www.youtube.com/watch?v=Tijtn4NGrGI",
+        imageUrl: "Warehouse_Wreckage.jpg"
+      },
+      {
+        title: "Project 5",
+        description:
+          "Simple Unity game where you click boxes to score points, building core skills in mouse input, UI feedback, and game mechanics implementation.",
+        technologies: ["Unity", "C#"],
+        githubUrl: "https://github.com/gcanidemir/Project_5_Create_with_Code",
+        liveUrl: "https://www.youtube.com/watch?v=tYJMgKK0eQ0",
+        imageUrl: "Project_5.jpg"
+      },
+      {
+        title: "Project 4",
+        description:
+          "Unity-based game developed through Create with Code, featuring interactive mechanics, simple controls, and showcasing fundamental game development skills using Unity engine.",
+        technologies: ["Unity", "C#"],
+        githubUrl: "https://github.com/gcanidemir/Project_4_Create_with_Code",
+        liveUrl: "https://www.youtube.com/watch?v=SNf1sCkL9ww",
+        imageUrl: "Project_4.jpg"
+      },
+      {
+        title: "Project 3",
+        description:
+          "Unity Create with Code project that challenges players to navigate a cube through an obstacle course, avoiding hazards and reaching the finish line",
+        technologies: ["Unity", "C#"],
+        githubUrl: "https://github.com/gcanidemir/Project_3_Create_with_Code",
+        liveUrl: "https://www.youtube.com/watch?v=DlnMhqFP2Hw",
+        imageUrl: "Project_3.jpg"
+      },
+      {
+        title: "Project 2",
+        description:
+          "Unity game developed as part of the Unity Learn Create with Code course, involves feeding animals with cookies.",
+        technologies: ["Unity", "C#"],
+        githubUrl: "https://github.com/gcanidemir/Project_2_Create_with_Code",
+        liveUrl: "https://www.youtube.com/watch?v=3thyMnVTpyc",
+        imageUrl: "Project_2.jpg"
+      },
+      {
+        title: "Project 1",
+        description:
+          "Unity Create with Code project that introduces basic game development concepts.",
+        technologies: ["Unity", "C#"],
+        githubUrl: "https://github.com/gcanidemir/Project_1_Create_with_Code",
+        liveUrl: "https://www.youtube.com/watch?v=zIU3mG1GZ2I",
+        imageUrl: "Project_1.jpg"
+      }
     ],
   };
 
