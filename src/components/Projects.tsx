@@ -52,6 +52,23 @@ const Projects = () => {
         liveUrl: "https://www.youtube.com/watch?v=2egZ6ksf7AM",
         imageUrl: "Weather_Forecast_Application.jpg"
       },
+      {
+        title: "WellNet - Patient Management System",
+        description:
+          "Developed a comprehensive patient management system with billing, analytics and authentication features.",
+        technologies: [
+          "Java Spring Boot",
+          "Spring Cloud Gateway",
+          "gRPC",
+          "Apache Kafka",
+          "Docker & Docker Compose",
+          "Maven",
+          "Protocol Buffers",
+        ],
+        githubUrl: "https://github.com/gcanidemir/WellNet",
+        liveUrl: "",
+        imageUrl: "WellNet_-_Patient_Management_System.png"
+      }      
     ],
     ai: [
       {
